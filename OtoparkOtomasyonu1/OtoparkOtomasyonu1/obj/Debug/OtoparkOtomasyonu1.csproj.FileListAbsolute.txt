@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\bin\Debug\OtoparkOtomasyonu1.exe.config
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\bin\Debug\OtoparkOtomasyonu1.exe
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\bin\Debug\OtoparkOtomasyonu1.pdb
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\obj\Debug\OtoparkOtomasyonu1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\obj\Debug\OtoparkOtomasyonu1.araclar.resources
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\obj\Debug\OtoparkOtomasyonu1.Form1.resources
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\obj\Debug\OtoparkOtomasyonu1.Properties.Resources.resources
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\obj\Debug\OtoparkOtomasyonu1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\obj\Debug\OtoparkOtomasyonu1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\obj\Debug\OtoparkOtomasyonu1.exe
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\obj\Debug\OtoparkOtomasyonu1.pdb
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\obj\Debug\OtoparkOtomasyonu1.musteri.resources
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\obj\Debug\OtoparkOtomasyonu1.abonelik.resources
+C:\Users\PC\source\repos\OtoparkOtomasyonu1\OtoparkOtomasyonu1\obj\Debug\OtoparkOtomasyonu1.hizmet.resources
